@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "12ebb93f338bd363",
+    "type": "split",
+    "children": [
+      {
+        "id": "01c3c3dd6ba45b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd2a4ef81757ebb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2075837a139175fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eb3d9a07fd0413e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3702e939cf9177a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c5e09913fe8decc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e55a74b65ca35eb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55f1245c1c0d139c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e7366dd68c61d20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "561e271b86a43aca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "4d5f3030bf3593b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "d22166c1eaf4d56b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "871d7b9a95929bc7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3ad0f4f3b553cf7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dd2a4ef81757ebb3",
+  "lastOpenFiles": [
+    "qwen-code-export-2026-02-25T14-21-08-354Z.md",
+    "index.txt",
+    "Done/orchestrator_FILE_sh.txt.md",
+    "Plans/processed_orchestrator_FILE_sh.txt_20260225_191936.md",
+    "In_Progress/orchestrator_FILE_sh.txt.md",
+    "Needs_Action/FILE_sh.txt.md",
+    "Inbox/sh.txt",
+    "sh.txt",
+    "Done/orchestrator_FILE_test123.txt.md",
+    "Plans/processed_orchestrator_FILE_test123.txt_20260225_191826.md",
+    "Inbox/hello.md",
+    "hello.md",
+    "Needs_Action/FILE_test123.txt.md",
+    "Inbox/test123.txt",
+    "Scripts/test_watcher.py",
+    "Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026.md",
+    "Dashboard.md",
+    "Inbox/bari.md",
+    "bari.md",
+    "Scripts/orchestrator.log",
+    "Scripts/In_Progress",
+    "Scripts/Pending_Approval",
+    "Scripts/Plans",
+    "Scripts/Done",
+    "Company_Handbook.md"
+  ]
+}
